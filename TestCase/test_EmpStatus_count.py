@@ -59,8 +59,7 @@ class Testlogin(logclass):
         db.click_job()
         db.click_employement_status()
         es.click_add_button()
-        self.driver.find_element(
-            By.CSS_SELECTOR, 'form input.oxd-input').send_keys('')
+        es.blank_data_employement_status()
         es.click_savebutton()
         time.sleep(3)
         if 'Required' in es.invalid_required_status():
@@ -85,8 +84,7 @@ class Testlogin(logclass):
         db.click_job()
         db.click_employement_status()
         es.click_add_button()
-        self.driver.find_element(By.CSS_SELECTOR, 'form input.oxd-input').send_keys(
-            'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')
+        es.exceed_length_invalid()
         time.sleep(3)
         if 'Should not exceed 50 characters' in es.invalid_exceed_length():
             assert True

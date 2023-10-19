@@ -736,3 +736,37 @@
 19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
 19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
 19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
+19/10/2023 10:06:52 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+19/10/2023 10:06:52 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+19/10/2023 10:07:02 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass
+19/10/2023 10:09:32 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: TEST CASE, test_new_employement_status_add_with_blank_data
+19/10/2023 10:09:32 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case starting
+19/10/2023 10:09:42 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case pass
+19/10/2023 10:09:47 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+19/10/2023 10:09:47 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+19/10/2023 10:09:47 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+19/10/2023 10:09:47 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+19/10/2023 10:09:57 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass
+19/10/2023 10:09:57 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass
+19/10/2023 10:10:51 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: TEST CASE, test_new_employement_status_add_with_correct_data
+19/10/2023 10:10:51 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: Test case starting
+19/10/2023 10:11:04 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: Test Case pass
+19/10/2023 10:11:10 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: TEST CASE, test_new_employement_status_add_with_blank_data
+19/10/2023 10:11:10 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: TEST CASE, test_new_employement_status_add_with_blank_data
+19/10/2023 10:11:10 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case starting
+19/10/2023 10:11:10 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case starting
+19/10/2023 10:11:21 AM: WARNING: connectionpool: urlopen: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0034a6a7a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9f3ddc6647121235a5d7c76d3ca1a7e3
+19/10/2023 10:11:21 AM: WARNING: connectionpool: urlopen: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0034a6a7a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9f3ddc6647121235a5d7c76d3ca1a7e3
+19/10/2023 10:11:21 AM: WARNING: connectionpool: urlopen: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f003467ca30>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9f3ddc6647121235a5d7c76d3ca1a7e3
+19/10/2023 10:11:21 AM: WARNING: connectionpool: urlopen: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f003467ca30>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9f3ddc6647121235a5d7c76d3ca1a7e3
+19/10/2023 10:11:21 AM: WARNING: connectionpool: urlopen: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f003467c970>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9f3ddc6647121235a5d7c76d3ca1a7e3
+19/10/2023 10:11:21 AM: WARNING: connectionpool: urlopen: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f003467c970>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9f3ddc6647121235a5d7c76d3ca1a7e3
+19/10/2023 10:11:43 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: TEST CASE, test_new_employement_status_add_with_blank_data
+19/10/2023 10:11:43 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case starting
+19/10/2023 10:11:54 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case pass
+19/10/2023 10:12:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+19/10/2023 10:12:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+19/10/2023 10:12:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+19/10/2023 10:12:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+19/10/2023 10:12:12 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass
+19/10/2023 10:12:12 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass

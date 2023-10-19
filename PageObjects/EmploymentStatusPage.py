@@ -43,6 +43,13 @@ class EmpStatus:
     def update_employeement_status(self, Name):
         self.driver.find_element(By.CSS_SELECTOR,self.update_employeement_status_xpath).send_keys(Name)
         
+    def exceed_length_invalid(self):
+        self.driver.find_element(By.CSS_SELECTOR, self.inputfield_name_xpath).send_keys(
+            'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')
+        
+    def blank_data_employement_status(self):
+        self.driver.find_element(By.CSS_SELECTOR, self.inputfield_name_xpath).send_keys('')
+        
     def update_clear_value_employeement_status(self):
         data = self.driver.find_element(By.CSS_SELECTOR,self.update_employeement_status_xpath)
         data.clear()

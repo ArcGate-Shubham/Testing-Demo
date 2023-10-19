@@ -1,0 +1,772 @@
+18/10/2023 09:32:48 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: TEST CASE, test_new_employement_status_add_with_correct_data
+18/10/2023 09:32:48 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: Test case starting
+18/10/2023 09:32:49 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: entered username
+18/10/2023 09:32:49 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: entered password
+18/10/2023 09:32:49 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: click on login button
+18/10/2023 09:32:53 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: click on admin section
+18/10/2023 09:32:55 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: click on job section
+18/10/2023 09:32:56 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: click of employement status
+18/10/2023 09:32:57 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: click on add button for new status
+18/10/2023 09:32:57 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: fill new employement status
+18/10/2023 09:32:58 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: click on save button
+18/10/2023 09:33:03 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: Test Case pass
+18/10/2023 09:33:29 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: TEST CASE, test_new_employement_status_add_with_blank_data
+18/10/2023 09:33:29 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: TEST CASE, test_new_employement_status_add_with_blank_data
+18/10/2023 09:33:29 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case starting
+18/10/2023 09:33:29 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case starting
+18/10/2023 09:33:30 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: entered username
+18/10/2023 09:33:30 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: entered username
+18/10/2023 09:33:30 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: entered password
+18/10/2023 09:33:30 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: entered password
+18/10/2023 09:33:31 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: click on login button
+18/10/2023 09:33:31 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: click on login button
+18/10/2023 09:33:33 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: click on admin section
+18/10/2023 09:33:33 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: click on admin section
+18/10/2023 09:33:35 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: click on job section
+18/10/2023 09:33:35 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: click on job section
+18/10/2023 09:33:36 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: click on employement status section
+18/10/2023 09:33:36 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: click on employement status section
+18/10/2023 09:33:37 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: click on add button
+18/10/2023 09:33:37 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: click on add button
+18/10/2023 09:33:37 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: enterd blank data in input type
+18/10/2023 09:33:37 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: enterd blank data in input type
+18/10/2023 09:33:38 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: click on save button 
+18/10/2023 09:33:38 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: click on save button 
+18/10/2023 09:33:41 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case pass
+18/10/2023 09:33:41 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case pass
+18/10/2023 09:33:52 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+18/10/2023 09:33:52 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+18/10/2023 09:33:52 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+18/10/2023 09:33:52 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+18/10/2023 09:33:52 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+18/10/2023 09:33:52 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+18/10/2023 09:33:53 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: entered username
+18/10/2023 09:33:53 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: entered username
+18/10/2023 09:33:53 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: entered username
+18/10/2023 09:33:53 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: enetred password
+18/10/2023 09:33:53 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: enetred password
+18/10/2023 09:33:53 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: enetred password
+18/10/2023 09:33:54 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: click on login button
+18/10/2023 09:33:54 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: click on login button
+18/10/2023 09:33:54 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: click on login button
+18/10/2023 09:33:56 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: click on admin section
+18/10/2023 09:33:56 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: click on admin section
+18/10/2023 09:33:56 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: click on admin section
+18/10/2023 09:33:58 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: click on job section
+18/10/2023 09:33:58 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: click on job section
+18/10/2023 09:33:58 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: click on job section
+18/10/2023 09:33:59 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: click on employeement status section
+18/10/2023 09:33:59 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: click on employeement status section
+18/10/2023 09:33:59 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: click on employeement status section
+18/10/2023 09:34:00 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: fill exceed limit data
+18/10/2023 09:34:00 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: fill exceed limit data
+18/10/2023 09:34:00 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: fill exceed limit data
+18/10/2023 09:34:03 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass
+18/10/2023 09:34:03 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass
+18/10/2023 09:34:03 PM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass
+18/10/2023 09:34:44 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: TEST CASE, test_new_employement_status_deleted
+18/10/2023 09:34:44 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: TEST CASE, test_new_employement_status_deleted
+18/10/2023 09:34:44 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: TEST CASE, test_new_employement_status_deleted
+18/10/2023 09:34:44 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: TEST CASE, test_new_employement_status_deleted
+18/10/2023 09:34:44 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: test case starting
+18/10/2023 09:34:44 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: test case starting
+18/10/2023 09:34:44 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: test case starting
+18/10/2023 09:34:44 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: test case starting
+18/10/2023 09:34:46 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: entered username
+18/10/2023 09:34:46 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: entered username
+18/10/2023 09:34:46 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: entered username
+18/10/2023 09:34:46 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: entered username
+18/10/2023 09:34:46 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: entered password
+18/10/2023 09:34:46 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: entered password
+18/10/2023 09:34:46 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: entered password
+18/10/2023 09:34:46 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: entered password
+18/10/2023 09:34:47 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on login button
+18/10/2023 09:34:47 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on login button
+18/10/2023 09:34:47 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on login button
+18/10/2023 09:34:47 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on login button
+18/10/2023 09:34:49 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on admin section
+18/10/2023 09:34:49 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on admin section
+18/10/2023 09:34:49 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on admin section
+18/10/2023 09:34:49 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on admin section
+18/10/2023 09:34:51 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on employeement status section
+18/10/2023 09:34:51 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on employeement status section
+18/10/2023 09:34:51 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on employeement status section
+18/10/2023 09:34:51 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on employeement status section
+18/10/2023 09:34:52 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: Click on delete employeement icon
+18/10/2023 09:34:52 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: Click on delete employeement icon
+18/10/2023 09:34:52 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: Click on delete employeement icon
+18/10/2023 09:34:52 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: Click on delete employeement icon
+18/10/2023 09:34:52 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on confirmation box
+18/10/2023 09:34:52 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on confirmation box
+18/10/2023 09:34:52 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on confirmation box
+18/10/2023 09:34:52 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: click on confirmation box
+18/10/2023 09:34:56 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: Test case pass
+18/10/2023 09:34:56 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: Test case pass
+18/10/2023 09:34:56 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: Test case pass
+18/10/2023 09:34:56 PM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: Test case pass
+18/10/2023 09:35:21 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: TEST CASE, test_update_employement_status_with_correct_data
+18/10/2023 09:35:21 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: TEST CASE, test_update_employement_status_with_correct_data
+18/10/2023 09:35:21 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: TEST CASE, test_update_employement_status_with_correct_data
+18/10/2023 09:35:21 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: TEST CASE, test_update_employement_status_with_correct_data
+18/10/2023 09:35:21 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: TEST CASE, test_update_employement_status_with_correct_data
+18/10/2023 09:35:21 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: test case starting
+18/10/2023 09:35:21 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: test case starting
+18/10/2023 09:35:21 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: test case starting
+18/10/2023 09:35:21 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: test case starting
+18/10/2023 09:35:21 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: test case starting
+18/10/2023 09:35:23 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: entered username
+18/10/2023 09:35:23 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: entered username
+18/10/2023 09:35:23 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: entered username
+18/10/2023 09:35:23 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: entered username
+18/10/2023 09:35:23 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: entered username
+18/10/2023 09:35:23 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: enterd password
+18/10/2023 09:35:23 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: enterd password
+18/10/2023 09:35:23 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: enterd password
+18/10/2023 09:35:23 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: enterd password
+18/10/2023 09:35:23 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: enterd password
+18/10/2023 09:35:25 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on login button
+18/10/2023 09:35:25 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on login button
+18/10/2023 09:35:25 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on login button
+18/10/2023 09:35:25 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on login button
+18/10/2023 09:35:25 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on login button
+18/10/2023 09:35:27 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on admin section
+18/10/2023 09:35:27 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on admin section
+18/10/2023 09:35:27 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on admin section
+18/10/2023 09:35:27 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on admin section
+18/10/2023 09:35:27 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on admin section
+18/10/2023 09:35:29 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on job section
+18/10/2023 09:35:29 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on job section
+18/10/2023 09:35:29 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on job section
+18/10/2023 09:35:29 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on job section
+18/10/2023 09:35:29 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on job section
+18/10/2023 09:35:30 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on employement section
+18/10/2023 09:35:30 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on employement section
+18/10/2023 09:35:30 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on employement section
+18/10/2023 09:35:30 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on employement section
+18/10/2023 09:35:30 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on employement section
+18/10/2023 09:35:32 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on update icon of employement status
+18/10/2023 09:35:32 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on update icon of employement status
+18/10/2023 09:35:32 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on update icon of employement status
+18/10/2023 09:35:32 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on update icon of employement status
+18/10/2023 09:35:32 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on update icon of employement status
+18/10/2023 09:35:32 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: update the employement status
+18/10/2023 09:35:32 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: update the employement status
+18/10/2023 09:35:32 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: update the employement status
+18/10/2023 09:35:32 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: update the employement status
+18/10/2023 09:35:32 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: update the employement status
+18/10/2023 09:35:33 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on save button
+18/10/2023 09:35:33 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on save button
+18/10/2023 09:35:33 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on save button
+18/10/2023 09:35:33 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on save button
+18/10/2023 09:35:33 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: click on save button
+18/10/2023 09:35:37 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: Test case pass
+18/10/2023 09:35:37 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: Test case pass
+18/10/2023 09:35:37 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: Test case pass
+18/10/2023 09:35:37 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: Test case pass
+18/10/2023 09:35:37 PM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: Test case pass
+18/10/2023 09:35:47 PM: INFO: test_login: test_correct_username_correct_password: TEST CASE, test_correct_username_correct_password
+18/10/2023 09:35:47 PM: INFO: test_login: test_correct_username_correct_password: TEST CASE, test_correct_username_correct_password
+18/10/2023 09:35:47 PM: INFO: test_login: test_correct_username_correct_password: TEST CASE, test_correct_username_correct_password
+18/10/2023 09:35:47 PM: INFO: test_login: test_correct_username_correct_password: TEST CASE, test_correct_username_correct_password
+18/10/2023 09:35:47 PM: INFO: test_login: test_correct_username_correct_password: TEST CASE, test_correct_username_correct_password
+18/10/2023 09:35:47 PM: INFO: test_login: test_correct_username_correct_password: TEST CASE, test_correct_username_correct_password
+18/10/2023 09:35:47 PM: INFO: test_login: test_correct_username_correct_password: Test case starting
+18/10/2023 09:35:47 PM: INFO: test_login: test_correct_username_correct_password: Test case starting
+18/10/2023 09:35:47 PM: INFO: test_login: test_correct_username_correct_password: Test case starting
+18/10/2023 09:35:47 PM: INFO: test_login: test_correct_username_correct_password: Test case starting
+18/10/2023 09:35:47 PM: INFO: test_login: test_correct_username_correct_password: Test case starting
+18/10/2023 09:35:47 PM: INFO: test_login: test_correct_username_correct_password: Test case starting
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: entered username
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: entered username
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: entered username
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: entered username
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: entered username
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: entered username
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: entered password
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: entered password
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: entered password
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: entered password
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: entered password
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: entered password
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: clicked Login
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: clicked Login
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: clicked Login
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: clicked Login
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: clicked Login
+18/10/2023 09:35:48 PM: INFO: test_login: test_correct_username_correct_password: clicked Login
+18/10/2023 09:35:51 PM: INFO: test_login: test_correct_username_correct_password: Test case pass
+18/10/2023 09:35:51 PM: INFO: test_login: test_correct_username_correct_password: Test case pass
+18/10/2023 09:35:51 PM: INFO: test_login: test_correct_username_correct_password: Test case pass
+18/10/2023 09:35:51 PM: INFO: test_login: test_correct_username_correct_password: Test case pass
+18/10/2023 09:35:51 PM: INFO: test_login: test_correct_username_correct_password: Test case pass
+18/10/2023 09:35:51 PM: INFO: test_login: test_correct_username_correct_password: Test case pass
+18/10/2023 09:36:10 PM: INFO: test_login: test_incorrect_username_correct_password: TEST CASE test_incorrect_username_correct_password
+18/10/2023 09:36:10 PM: INFO: test_login: test_incorrect_username_correct_password: TEST CASE test_incorrect_username_correct_password
+18/10/2023 09:36:10 PM: INFO: test_login: test_incorrect_username_correct_password: TEST CASE test_incorrect_username_correct_password
+18/10/2023 09:36:10 PM: INFO: test_login: test_incorrect_username_correct_password: TEST CASE test_incorrect_username_correct_password
+18/10/2023 09:36:10 PM: INFO: test_login: test_incorrect_username_correct_password: TEST CASE test_incorrect_username_correct_password
+18/10/2023 09:36:10 PM: INFO: test_login: test_incorrect_username_correct_password: TEST CASE test_incorrect_username_correct_password
+18/10/2023 09:36:10 PM: INFO: test_login: test_incorrect_username_correct_password: TEST CASE test_incorrect_username_correct_password
+18/10/2023 09:36:10 PM: INFO: test_login: test_incorrect_username_correct_password: Test case started
+18/10/2023 09:36:10 PM: INFO: test_login: test_incorrect_username_correct_password: Test case started
+18/10/2023 09:36:10 PM: INFO: test_login: test_incorrect_username_correct_password: Test case started
+18/10/2023 09:36:10 PM: INFO: test_login: test_incorrect_username_correct_password: Test case started
+18/10/2023 09:36:10 PM: INFO: test_login: test_incorrect_username_correct_password: Test case started
+18/10/2023 09:36:10 PM: INFO: test_login: test_incorrect_username_correct_password: Test case started
+18/10/2023 09:36:10 PM: INFO: test_login: test_incorrect_username_correct_password: Test case started
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: entered incorrect username
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: entered incorrect username
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: entered incorrect username
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: entered incorrect username
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: entered incorrect username
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: entered incorrect username
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: entered incorrect username
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: entered correct password
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: entered correct password
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: entered correct password
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: entered correct password
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: entered correct password
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: entered correct password
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: entered correct password
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: click login button
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: click login button
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: click login button
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: click login button
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: click login button
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: click login button
+18/10/2023 09:36:11 PM: INFO: test_login: test_incorrect_username_correct_password: click login button
+18/10/2023 09:36:15 PM: INFO: test_login: test_incorrect_username_correct_password: Test case pass
+18/10/2023 09:36:15 PM: INFO: test_login: test_incorrect_username_correct_password: Test case pass
+18/10/2023 09:36:15 PM: INFO: test_login: test_incorrect_username_correct_password: Test case pass
+18/10/2023 09:36:15 PM: INFO: test_login: test_incorrect_username_correct_password: Test case pass
+18/10/2023 09:36:15 PM: INFO: test_login: test_incorrect_username_correct_password: Test case pass
+18/10/2023 09:36:15 PM: INFO: test_login: test_incorrect_username_correct_password: Test case pass
+18/10/2023 09:36:15 PM: INFO: test_login: test_incorrect_username_correct_password: Test case pass
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+18/10/2023 09:36:32 PM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+18/10/2023 09:36:33 PM: INFO: test_login: test_correct_username_incorrect_password: entered correct username
+18/10/2023 09:36:33 PM: INFO: test_login: test_correct_username_incorrect_password: entered correct username
+18/10/2023 09:36:33 PM: INFO: test_login: test_correct_username_incorrect_password: entered correct username
+18/10/2023 09:36:33 PM: INFO: test_login: test_correct_username_incorrect_password: entered correct username
+18/10/2023 09:36:33 PM: INFO: test_login: test_correct_username_incorrect_password: entered correct username
+18/10/2023 09:36:33 PM: INFO: test_login: test_correct_username_incorrect_password: entered correct username
+18/10/2023 09:36:33 PM: INFO: test_login: test_correct_username_incorrect_password: entered correct username
+18/10/2023 09:36:33 PM: INFO: test_login: test_correct_username_incorrect_password: entered correct username
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: click login button
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: click login button
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: click login button
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: click login button
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: click login button
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: click login button
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: click login button
+18/10/2023 09:36:34 PM: INFO: test_login: test_correct_username_incorrect_password: click login button
+18/10/2023 09:36:37 PM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+18/10/2023 09:36:37 PM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+18/10/2023 09:36:37 PM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+18/10/2023 09:36:37 PM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+18/10/2023 09:36:37 PM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+18/10/2023 09:36:37 PM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+18/10/2023 09:36:37 PM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+18/10/2023 09:36:37 PM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+18/10/2023 09:36:52 PM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+18/10/2023 09:36:52 PM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+18/10/2023 09:36:52 PM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+18/10/2023 09:36:52 PM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+18/10/2023 09:36:52 PM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+18/10/2023 09:36:52 PM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+18/10/2023 09:36:52 PM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+18/10/2023 09:36:52 PM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+18/10/2023 09:36:52 PM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+18/10/2023 09:36:53 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect username
+18/10/2023 09:36:53 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect username
+18/10/2023 09:36:53 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect username
+18/10/2023 09:36:53 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect username
+18/10/2023 09:36:53 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect username
+18/10/2023 09:36:53 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect username
+18/10/2023 09:36:53 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect username
+18/10/2023 09:36:53 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect username
+18/10/2023 09:36:53 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect username
+18/10/2023 09:36:54 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:54 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:54 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:54 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:54 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:54 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:54 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:54 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:54 PM: INFO: test_login: test_incorrect_username_incorrect_password: entered incorrect password
+18/10/2023 09:36:55 PM: INFO: test_login: test_incorrect_username_incorrect_password: click on login button
+18/10/2023 09:36:55 PM: INFO: test_login: test_incorrect_username_incorrect_password: click on login button
+18/10/2023 09:36:55 PM: INFO: test_login: test_incorrect_username_incorrect_password: click on login button
+18/10/2023 09:36:55 PM: INFO: test_login: test_incorrect_username_incorrect_password: click on login button
+18/10/2023 09:36:55 PM: INFO: test_login: test_incorrect_username_incorrect_password: click on login button
+18/10/2023 09:36:55 PM: INFO: test_login: test_incorrect_username_incorrect_password: click on login button
+18/10/2023 09:36:55 PM: INFO: test_login: test_incorrect_username_incorrect_password: click on login button
+18/10/2023 09:36:55 PM: INFO: test_login: test_incorrect_username_incorrect_password: click on login button
+18/10/2023 09:36:55 PM: INFO: test_login: test_incorrect_username_incorrect_password: click on login button
+18/10/2023 09:36:58 PM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+18/10/2023 09:36:58 PM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+18/10/2023 09:36:58 PM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+18/10/2023 09:36:58 PM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+18/10/2023 09:36:58 PM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+18/10/2023 09:36:58 PM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+18/10/2023 09:36:58 PM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+18/10/2023 09:36:58 PM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+18/10/2023 09:36:58 PM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: Test Case started
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: Test Case started
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: Test Case started
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: Test Case started
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: Test Case started
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: Test Case started
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: Test Case started
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: Test Case started
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: Test Case started
+18/10/2023 09:37:07 PM: INFO: test_login: test_blank_username_correct_password: Test Case started
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered blank username
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered blank username
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered blank username
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered blank username
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered blank username
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered blank username
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered blank username
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered blank username
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered blank username
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered blank username
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered correct password
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered correct password
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered correct password
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered correct password
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered correct password
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered correct password
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered correct password
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered correct password
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered correct password
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: entered correct password
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: click on login button
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: click on login button
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: click on login button
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: click on login button
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: click on login button
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: click on login button
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: click on login button
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: click on login button
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: click on login button
+18/10/2023 09:37:08 PM: INFO: test_login: test_blank_username_correct_password: click on login button
+18/10/2023 09:37:11 PM: INFO: test_login: test_blank_username_correct_password: test case pass
+18/10/2023 09:37:11 PM: INFO: test_login: test_blank_username_correct_password: test case pass
+18/10/2023 09:37:11 PM: INFO: test_login: test_blank_username_correct_password: test case pass
+18/10/2023 09:37:11 PM: INFO: test_login: test_blank_username_correct_password: test case pass
+18/10/2023 09:37:11 PM: INFO: test_login: test_blank_username_correct_password: test case pass
+18/10/2023 09:37:11 PM: INFO: test_login: test_blank_username_correct_password: test case pass
+18/10/2023 09:37:11 PM: INFO: test_login: test_blank_username_correct_password: test case pass
+18/10/2023 09:37:11 PM: INFO: test_login: test_blank_username_correct_password: test case pass
+18/10/2023 09:37:11 PM: INFO: test_login: test_blank_username_correct_password: test case pass
+18/10/2023 09:37:11 PM: INFO: test_login: test_blank_username_correct_password: test case pass
+18/10/2023 09:37:18 PM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+18/10/2023 09:37:18 PM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+18/10/2023 09:37:18 PM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+18/10/2023 09:37:18 PM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+18/10/2023 09:37:18 PM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+18/10/2023 09:37:18 PM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+18/10/2023 09:37:18 PM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+18/10/2023 09:37:18 PM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+18/10/2023 09:37:18 PM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+18/10/2023 09:37:18 PM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+18/10/2023 09:37:18 PM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered correct username
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered correct username
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered correct username
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered correct username
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered correct username
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered correct username
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered correct username
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered correct username
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered correct username
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered correct username
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered correct username
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered blank password
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered blank password
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered blank password
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered blank password
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered blank password
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered blank password
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered blank password
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered blank password
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered blank password
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered blank password
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: entered blank password
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: click on login button
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: click on login button
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: click on login button
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: click on login button
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: click on login button
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: click on login button
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: click on login button
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: click on login button
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: click on login button
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: click on login button
+18/10/2023 09:37:19 PM: INFO: test_login: test_correct_username_blank_password: click on login button
+18/10/2023 09:37:22 PM: INFO: test_login: test_correct_username_blank_password: test case pass
+18/10/2023 09:37:22 PM: INFO: test_login: test_correct_username_blank_password: test case pass
+18/10/2023 09:37:22 PM: INFO: test_login: test_correct_username_blank_password: test case pass
+18/10/2023 09:37:22 PM: INFO: test_login: test_correct_username_blank_password: test case pass
+18/10/2023 09:37:22 PM: INFO: test_login: test_correct_username_blank_password: test case pass
+18/10/2023 09:37:22 PM: INFO: test_login: test_correct_username_blank_password: test case pass
+18/10/2023 09:37:22 PM: INFO: test_login: test_correct_username_blank_password: test case pass
+18/10/2023 09:37:22 PM: INFO: test_login: test_correct_username_blank_password: test case pass
+18/10/2023 09:37:22 PM: INFO: test_login: test_correct_username_blank_password: test case pass
+18/10/2023 09:37:22 PM: INFO: test_login: test_correct_username_blank_password: test case pass
+18/10/2023 09:37:22 PM: INFO: test_login: test_correct_username_blank_password: test case pass
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: Test case started
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: Test case started
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: Test case started
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: Test case started
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: Test case started
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: Test case started
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: Test case started
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: Test case started
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: Test case started
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: Test case started
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: Test case started
+18/10/2023 09:37:30 PM: INFO: test_login: test_blank_username_blank_password: Test case started
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank username
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank username
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank username
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank username
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank username
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank username
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank username
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank username
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank username
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank username
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank username
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank username
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank password
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank password
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank password
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank password
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank password
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank password
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank password
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank password
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank password
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank password
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank password
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: entered blank password
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: click on login button
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: click on login button
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: click on login button
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: click on login button
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: click on login button
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: click on login button
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: click on login button
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: click on login button
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: click on login button
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: click on login button
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: click on login button
+18/10/2023 09:37:31 PM: INFO: test_login: test_blank_username_blank_password: click on login button
+18/10/2023 09:37:34 PM: INFO: test_login: test_blank_username_blank_password: Test case pass
+18/10/2023 09:37:34 PM: INFO: test_login: test_blank_username_blank_password: Test case pass
+18/10/2023 09:37:34 PM: INFO: test_login: test_blank_username_blank_password: Test case pass
+18/10/2023 09:37:34 PM: INFO: test_login: test_blank_username_blank_password: Test case pass
+18/10/2023 09:37:34 PM: INFO: test_login: test_blank_username_blank_password: Test case pass
+18/10/2023 09:37:34 PM: INFO: test_login: test_blank_username_blank_password: Test case pass
+18/10/2023 09:37:34 PM: INFO: test_login: test_blank_username_blank_password: Test case pass
+18/10/2023 09:37:34 PM: INFO: test_login: test_blank_username_blank_password: Test case pass
+18/10/2023 09:37:34 PM: INFO: test_login: test_blank_username_blank_password: Test case pass
+18/10/2023 09:37:34 PM: INFO: test_login: test_blank_username_blank_password: Test case pass
+18/10/2023 09:37:34 PM: INFO: test_login: test_blank_username_blank_password: Test case pass
+18/10/2023 09:37:34 PM: INFO: test_login: test_blank_username_blank_password: Test case pass
+19/10/2023 09:50:06 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: TEST CASE, test_new_employement_status_add_with_correct_data
+19/10/2023 09:50:06 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: Test case starting
+19/10/2023 09:50:19 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: Test Case pass
+19/10/2023 09:50:27 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: TEST CASE, test_new_employement_status_add_with_blank_data
+19/10/2023 09:50:27 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: TEST CASE, test_new_employement_status_add_with_blank_data
+19/10/2023 09:50:27 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case starting
+19/10/2023 09:50:27 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case starting
+19/10/2023 09:50:38 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case pass
+19/10/2023 09:50:38 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case pass
+19/10/2023 09:50:44 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+19/10/2023 09:50:44 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+19/10/2023 09:50:44 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+19/10/2023 09:50:44 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+19/10/2023 09:50:44 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+19/10/2023 09:50:44 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+19/10/2023 09:50:55 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass
+19/10/2023 09:50:55 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass
+19/10/2023 09:50:55 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass
+19/10/2023 09:51:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: TEST CASE, test_new_employement_status_deleted
+19/10/2023 09:51:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: TEST CASE, test_new_employement_status_deleted
+19/10/2023 09:51:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: TEST CASE, test_new_employement_status_deleted
+19/10/2023 09:51:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: TEST CASE, test_new_employement_status_deleted
+19/10/2023 09:51:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: test case starting
+19/10/2023 09:51:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: test case starting
+19/10/2023 09:51:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: test case starting
+19/10/2023 09:51:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: test case starting
+19/10/2023 09:51:12 AM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: Test case pass
+19/10/2023 09:51:12 AM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: Test case pass
+19/10/2023 09:51:12 AM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: Test case pass
+19/10/2023 09:51:12 AM: INFO: test_EmpStatus_count: test_new_employement_status_deleted: Test case pass
+19/10/2023 09:51:19 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: TEST CASE, test_update_employement_status_with_correct_data
+19/10/2023 09:51:19 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: TEST CASE, test_update_employement_status_with_correct_data
+19/10/2023 09:51:19 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: TEST CASE, test_update_employement_status_with_correct_data
+19/10/2023 09:51:19 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: TEST CASE, test_update_employement_status_with_correct_data
+19/10/2023 09:51:19 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: TEST CASE, test_update_employement_status_with_correct_data
+19/10/2023 09:51:19 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: test case starting
+19/10/2023 09:51:19 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: test case starting
+19/10/2023 09:51:19 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: test case starting
+19/10/2023 09:51:19 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: test case starting
+19/10/2023 09:51:19 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: test case starting
+19/10/2023 09:51:32 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: Test case pass
+19/10/2023 09:51:32 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: Test case pass
+19/10/2023 09:51:32 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: Test case pass
+19/10/2023 09:51:32 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: Test case pass
+19/10/2023 09:51:32 AM: INFO: test_EmpStatus_count: test_update_employement_status_with_correct_data: Test case pass
+19/10/2023 09:51:39 AM: INFO: test_login: test_correct_username_correct_password: TEST CASE, test_correct_username_correct_password
+19/10/2023 09:51:39 AM: INFO: test_login: test_correct_username_correct_password: TEST CASE, test_correct_username_correct_password
+19/10/2023 09:51:39 AM: INFO: test_login: test_correct_username_correct_password: TEST CASE, test_correct_username_correct_password
+19/10/2023 09:51:39 AM: INFO: test_login: test_correct_username_correct_password: TEST CASE, test_correct_username_correct_password
+19/10/2023 09:51:39 AM: INFO: test_login: test_correct_username_correct_password: TEST CASE, test_correct_username_correct_password
+19/10/2023 09:51:39 AM: INFO: test_login: test_correct_username_correct_password: TEST CASE, test_correct_username_correct_password
+19/10/2023 09:51:39 AM: INFO: test_login: test_correct_username_correct_password: Test case starting
+19/10/2023 09:51:39 AM: INFO: test_login: test_correct_username_correct_password: Test case starting
+19/10/2023 09:51:39 AM: INFO: test_login: test_correct_username_correct_password: Test case starting
+19/10/2023 09:51:39 AM: INFO: test_login: test_correct_username_correct_password: Test case starting
+19/10/2023 09:51:39 AM: INFO: test_login: test_correct_username_correct_password: Test case starting
+19/10/2023 09:51:39 AM: INFO: test_login: test_correct_username_correct_password: Test case starting
+19/10/2023 09:51:44 AM: INFO: test_login: test_correct_username_correct_password: Test case pass
+19/10/2023 09:51:44 AM: INFO: test_login: test_correct_username_correct_password: Test case pass
+19/10/2023 09:51:44 AM: INFO: test_login: test_correct_username_correct_password: Test case pass
+19/10/2023 09:51:44 AM: INFO: test_login: test_correct_username_correct_password: Test case pass
+19/10/2023 09:51:44 AM: INFO: test_login: test_correct_username_correct_password: Test case pass
+19/10/2023 09:51:44 AM: INFO: test_login: test_correct_username_correct_password: Test case pass
+19/10/2023 09:51:50 AM: INFO: test_login: test_incorrect_username_correct_password: TEST CASE test_incorrect_username_correct_password
+19/10/2023 09:51:50 AM: INFO: test_login: test_incorrect_username_correct_password: TEST CASE test_incorrect_username_correct_password
+19/10/2023 09:51:50 AM: INFO: test_login: test_incorrect_username_correct_password: TEST CASE test_incorrect_username_correct_password
+19/10/2023 09:51:50 AM: INFO: test_login: test_incorrect_username_correct_password: TEST CASE test_incorrect_username_correct_password
+19/10/2023 09:51:50 AM: INFO: test_login: test_incorrect_username_correct_password: TEST CASE test_incorrect_username_correct_password
+19/10/2023 09:51:50 AM: INFO: test_login: test_incorrect_username_correct_password: TEST CASE test_incorrect_username_correct_password
+19/10/2023 09:51:50 AM: INFO: test_login: test_incorrect_username_correct_password: TEST CASE test_incorrect_username_correct_password
+19/10/2023 09:51:50 AM: INFO: test_login: test_incorrect_username_correct_password: Test case started
+19/10/2023 09:51:50 AM: INFO: test_login: test_incorrect_username_correct_password: Test case started
+19/10/2023 09:51:50 AM: INFO: test_login: test_incorrect_username_correct_password: Test case started
+19/10/2023 09:51:50 AM: INFO: test_login: test_incorrect_username_correct_password: Test case started
+19/10/2023 09:51:50 AM: INFO: test_login: test_incorrect_username_correct_password: Test case started
+19/10/2023 09:51:50 AM: INFO: test_login: test_incorrect_username_correct_password: Test case started
+19/10/2023 09:51:50 AM: INFO: test_login: test_incorrect_username_correct_password: Test case started
+19/10/2023 09:51:55 AM: INFO: test_login: test_incorrect_username_correct_password: Test case pass
+19/10/2023 09:51:55 AM: INFO: test_login: test_incorrect_username_correct_password: Test case pass
+19/10/2023 09:51:55 AM: INFO: test_login: test_incorrect_username_correct_password: Test case pass
+19/10/2023 09:51:55 AM: INFO: test_login: test_incorrect_username_correct_password: Test case pass
+19/10/2023 09:51:55 AM: INFO: test_login: test_incorrect_username_correct_password: Test case pass
+19/10/2023 09:51:55 AM: INFO: test_login: test_incorrect_username_correct_password: Test case pass
+19/10/2023 09:51:55 AM: INFO: test_login: test_incorrect_username_correct_password: Test case pass
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: TEST CASE test_correct_username_incorrect_password
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+19/10/2023 09:52:01 AM: INFO: test_login: test_correct_username_incorrect_password: Test case started
+19/10/2023 09:52:05 AM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+19/10/2023 09:52:05 AM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+19/10/2023 09:52:05 AM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+19/10/2023 09:52:05 AM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+19/10/2023 09:52:05 AM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+19/10/2023 09:52:05 AM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+19/10/2023 09:52:05 AM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+19/10/2023 09:52:05 AM: INFO: test_login: test_correct_username_incorrect_password: Test Case Pass
+19/10/2023 09:52:12 AM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+19/10/2023 09:52:12 AM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+19/10/2023 09:52:12 AM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+19/10/2023 09:52:12 AM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+19/10/2023 09:52:12 AM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+19/10/2023 09:52:12 AM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+19/10/2023 09:52:12 AM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+19/10/2023 09:52:12 AM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+19/10/2023 09:52:12 AM: INFO: test_login: test_incorrect_username_incorrect_password: TEST CASE test_incorrect_username_incorrect_password
+19/10/2023 09:52:16 AM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+19/10/2023 09:52:16 AM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+19/10/2023 09:52:16 AM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+19/10/2023 09:52:16 AM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+19/10/2023 09:52:16 AM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+19/10/2023 09:52:16 AM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+19/10/2023 09:52:16 AM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+19/10/2023 09:52:16 AM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+19/10/2023 09:52:16 AM: INFO: test_login: test_incorrect_username_incorrect_password: test case pass
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: TEST CASE test_blank_username_correct_password
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: Test Case started
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: Test Case started
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: Test Case started
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: Test Case started
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: Test Case started
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: Test Case started
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: Test Case started
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: Test Case started
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: Test Case started
+19/10/2023 09:52:23 AM: INFO: test_login: test_blank_username_correct_password: Test Case started
+19/10/2023 09:52:26 AM: INFO: test_login: test_blank_username_correct_password: test case pass
+19/10/2023 09:52:26 AM: INFO: test_login: test_blank_username_correct_password: test case pass
+19/10/2023 09:52:26 AM: INFO: test_login: test_blank_username_correct_password: test case pass
+19/10/2023 09:52:26 AM: INFO: test_login: test_blank_username_correct_password: test case pass
+19/10/2023 09:52:26 AM: INFO: test_login: test_blank_username_correct_password: test case pass
+19/10/2023 09:52:26 AM: INFO: test_login: test_blank_username_correct_password: test case pass
+19/10/2023 09:52:26 AM: INFO: test_login: test_blank_username_correct_password: test case pass
+19/10/2023 09:52:26 AM: INFO: test_login: test_blank_username_correct_password: test case pass
+19/10/2023 09:52:26 AM: INFO: test_login: test_blank_username_correct_password: test case pass
+19/10/2023 09:52:26 AM: INFO: test_login: test_blank_username_correct_password: test case pass
+19/10/2023 09:52:33 AM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+19/10/2023 09:52:33 AM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+19/10/2023 09:52:33 AM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+19/10/2023 09:52:33 AM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+19/10/2023 09:52:33 AM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+19/10/2023 09:52:33 AM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+19/10/2023 09:52:33 AM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+19/10/2023 09:52:33 AM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+19/10/2023 09:52:33 AM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+19/10/2023 09:52:33 AM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+19/10/2023 09:52:33 AM: INFO: test_login: test_correct_username_blank_password: TEST CASE test_correct_username_blank_password
+19/10/2023 09:52:37 AM: INFO: test_login: test_correct_username_blank_password: test case pass
+19/10/2023 09:52:37 AM: INFO: test_login: test_correct_username_blank_password: test case pass
+19/10/2023 09:52:37 AM: INFO: test_login: test_correct_username_blank_password: test case pass
+19/10/2023 09:52:37 AM: INFO: test_login: test_correct_username_blank_password: test case pass
+19/10/2023 09:52:37 AM: INFO: test_login: test_correct_username_blank_password: test case pass
+19/10/2023 09:52:37 AM: INFO: test_login: test_correct_username_blank_password: test case pass
+19/10/2023 09:52:37 AM: INFO: test_login: test_correct_username_blank_password: test case pass
+19/10/2023 09:52:37 AM: INFO: test_login: test_correct_username_blank_password: test case pass
+19/10/2023 09:52:37 AM: INFO: test_login: test_correct_username_blank_password: test case pass
+19/10/2023 09:52:37 AM: INFO: test_login: test_correct_username_blank_password: test case pass
+19/10/2023 09:52:37 AM: INFO: test_login: test_correct_username_blank_password: test case pass
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: TEST CASE test_blank_username_blank_password
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: Test case started
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: Test case started
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: Test case started
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: Test case started
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: Test case started
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: Test case started
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: Test case started
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: Test case started
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: Test case started
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: Test case started
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: Test case started
+19/10/2023 09:52:43 AM: INFO: test_login: test_blank_username_blank_password: Test case started
+19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
+19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
+19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
+19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
+19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
+19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
+19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
+19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
+19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
+19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
+19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
+19/10/2023 09:52:47 AM: INFO: test_login: test_blank_username_blank_password: Test case pass
+19/10/2023 10:06:52 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+19/10/2023 10:06:52 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+19/10/2023 10:07:02 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass
+19/10/2023 10:09:32 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: TEST CASE, test_new_employement_status_add_with_blank_data
+19/10/2023 10:09:32 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case starting
+19/10/2023 10:09:42 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case pass
+19/10/2023 10:09:47 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+19/10/2023 10:09:47 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+19/10/2023 10:09:47 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+19/10/2023 10:09:47 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+19/10/2023 10:09:57 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass
+19/10/2023 10:09:57 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass
+19/10/2023 10:10:51 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: TEST CASE, test_new_employement_status_add_with_correct_data
+19/10/2023 10:10:51 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: Test case starting
+19/10/2023 10:11:04 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_correct_data: Test Case pass
+19/10/2023 10:11:10 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: TEST CASE, test_new_employement_status_add_with_blank_data
+19/10/2023 10:11:10 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: TEST CASE, test_new_employement_status_add_with_blank_data
+19/10/2023 10:11:10 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case starting
+19/10/2023 10:11:10 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case starting
+19/10/2023 10:11:21 AM: WARNING: connectionpool: urlopen: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0034a6a7a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9f3ddc6647121235a5d7c76d3ca1a7e3
+19/10/2023 10:11:21 AM: WARNING: connectionpool: urlopen: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0034a6a7a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9f3ddc6647121235a5d7c76d3ca1a7e3
+19/10/2023 10:11:21 AM: WARNING: connectionpool: urlopen: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f003467ca30>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9f3ddc6647121235a5d7c76d3ca1a7e3
+19/10/2023 10:11:21 AM: WARNING: connectionpool: urlopen: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f003467ca30>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9f3ddc6647121235a5d7c76d3ca1a7e3
+19/10/2023 10:11:21 AM: WARNING: connectionpool: urlopen: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f003467c970>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9f3ddc6647121235a5d7c76d3ca1a7e3
+19/10/2023 10:11:21 AM: WARNING: connectionpool: urlopen: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f003467c970>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9f3ddc6647121235a5d7c76d3ca1a7e3
+19/10/2023 10:11:43 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: TEST CASE, test_new_employement_status_add_with_blank_data
+19/10/2023 10:11:43 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case starting
+19/10/2023 10:11:54 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_blank_data: Test case pass
+19/10/2023 10:12:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+19/10/2023 10:12:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: TEST CASE, test_new_employement_status_add_with_exceed_limit_data
+19/10/2023 10:12:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+19/10/2023 10:12:01 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case starting
+19/10/2023 10:12:12 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass
+19/10/2023 10:12:12 AM: INFO: test_EmpStatus_count: test_new_employement_status_add_with_exceed_limit_data: Test case pass

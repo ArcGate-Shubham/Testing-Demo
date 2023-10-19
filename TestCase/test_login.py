@@ -15,11 +15,8 @@ class Testlogin(logclass):
         log.info("TEST CASE, test_correct_username_correct_password")
         log.info("Test case starting")
         lg.input_username('Admin')
-        log.info("entered username")
         lg.input_password('admin123')
-        log.info("entered password")
         lg.click_login()
-        log.info("clicked Login")
         time.sleep(3)
         if 'Dashboard' in db.dashboard():
             assert True
@@ -34,11 +31,8 @@ class Testlogin(logclass):
         log.info("TEST CASE test_incorrect_username_correct_password")
         log.info("Test case started")
         lg.input_username('Amin')
-        log.info("entered incorrect username")
         lg.input_password('admin123')
-        log.info("entered correct password")
         lg.click_login()
-        log.info("click login button")
         time.sleep(3)
         if 'Invalid credentials' in lg.invalid_msg():
             assert True
@@ -53,11 +47,8 @@ class Testlogin(logclass):
         log.info("TEST CASE test_correct_username_incorrect_password")
         log.info("Test case started")
         lg.input_username('Admin')
-        log.info("entered correct username")
         lg.input_password('admin23')
-        log.info("entered incorrect password")
         lg.click_login()
-        log.info("click login button")
         time.sleep(3)
         if 'Invalid credentials' in lg.invalid_msg():
             assert True
@@ -71,11 +62,8 @@ class Testlogin(logclass):
         lg = Login(self.driver)
         log.info("TEST CASE test_incorrect_username_incorrect_password")
         lg.input_username('admin')
-        log.info("entered incorrect username")
         lg.input_password('admin12')
-        log.info("entered incorrect password")
         lg.click_login()
-        log.info("click on login button")
         time.sleep(3)
         if 'Invalid credentials' in lg.invalid_msg():
             assert True
@@ -90,11 +78,8 @@ class Testlogin(logclass):
         log.info("TEST CASE test_blank_username_correct_password")
         log.info("Test Case started")
         lg.input_username('')
-        log.info("entered blank username")
         lg.input_password('admin123')
-        log.info("entered correct password")
         lg.click_login()
-        log.info("click on login button")
         time.sleep(3)
         if 'Required' in lg.invalid_required():
             assert True
@@ -108,11 +93,8 @@ class Testlogin(logclass):
         lg = Login(self.driver)
         log.info("TEST CASE test_correct_username_blank_password")
         lg.input_username('Admin')
-        log.info("entered correct username")
         lg.input_password('')
-        log.info("entered blank password")
         lg.click_login()
-        log.info("click on login button")
         time.sleep(3)
         if 'Required' in lg.invalid_required():
             assert True
@@ -127,11 +109,8 @@ class Testlogin(logclass):
         log.info("TEST CASE test_blank_username_blank_password")
         log.info("Test case started")
         lg.input_username('')
-        log.info("entered blank username")
         lg.input_password('')
-        log.info("entered blank password")
         lg.click_login()
-        log.info("click on login button")
         time.sleep(3)
         if 'Required' in lg.invalid_required():
             assert True

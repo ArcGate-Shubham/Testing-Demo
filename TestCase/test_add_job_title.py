@@ -246,4 +246,3 @@ class TestNewJobTitle(logclass):
         else:
             log.critical('Test Case Fail')
             assert False
-        

@@ -7,6 +7,7 @@ class dashboard_data:
         self.button_admin_xpath = "ul li a span"
         self.button_job_xpath = "//span[normalize-space()='Job']"
         self.button_employement_status_xpath = "ul.oxd-dropdown-menu li:nth-child(3) a"
+        self.button_job_title_xpath = 'ul li ul.oxd-dropdown-menu li'
         
     def dashboard(self):
         return self.driver.find_element(By.CSS_SELECTOR,self.textbox_dashboard_xpath).text
@@ -19,3 +20,6 @@ class dashboard_data:
     
     def click_employement_status(self):
         self.driver.find_element(By.CSS_SELECTOR,self.button_employement_status_xpath).click()
+        
+    def click_job_title_section(self):
+        self.driver.find_element(By.CSS_SELECTOR,self.button_job_title_xpath).click()
